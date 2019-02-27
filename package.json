@@ -3,6 +3,7 @@
 	"displayName": "rust-fmt",
 	"description": "",
 	"version": "0.0.1",
+  "publisher": "matsune",
 	"engines": {
 		"vscode": "^1.31.0"
 	},
