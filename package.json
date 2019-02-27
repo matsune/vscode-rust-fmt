@@ -3,7 +3,11 @@
 	"displayName": "rust-fmt",
 	"description": "",
 	"version": "0.0.1",
-  "publisher": "matsune",
+	"publisher": "matsune",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/matsune/vscode-rust-fmt.git"
+	},
 	"engines": {
 		"vscode": "^1.31.0"
 	},
